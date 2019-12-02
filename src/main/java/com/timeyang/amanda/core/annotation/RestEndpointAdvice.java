@@ -5,7 +5,7 @@ import org.springframework.web.bind.annotation.ControllerAdvice;
 import java.lang.annotation.*;
 
 /**
- * Rest端点异常处理器
+ * Rest endpoint exception handler
  *
  * @author chaokunyang
  * @create 2017-04-15
